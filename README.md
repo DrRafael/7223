@@ -27,4 +27,4 @@ pytest
 ## Автор
 
 Kodland
-TheDemonicWolf
+TheDemonicWolf (Dmitriy)
