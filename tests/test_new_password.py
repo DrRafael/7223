@@ -1,4 +1,5 @@
 import string
+import random
 from password.new_password import generate_password
 
 def test_password_characters():
@@ -15,3 +16,11 @@ def test_password_characters():
 Тест, что длина пароля соответствует заданной
 Тест, что два сгенерированных подряд пароля различаются
 """
+def test_password_length(length=12):
+    password = generate_password(length)
+    assert len(password) == length, f"Ожидалась длина {length}, но получено {len(password)}"
+
+
+
+
+
