@@ -28,3 +28,8 @@ pytest
 
 Kodland
 TheDemonicWolf (Dmitriy)
+
+
+
+
+### Остались вопросы? пишите, с радость. поможем: https://t.me/Dimasik3587
